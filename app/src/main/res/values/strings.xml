@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PRAC.4.2.HW</string>
+    <string name="chocolate_syrup">chocolate syrup</string>
+    <string name="spinkles">spinkles</string>
+    <string name="crushed_nuts">crushed nuts</string>
+    <string name="cherries">cherries</string>
+    <string name="orio_cookies_crumbles">orio cookies crumbles</string>
+    <string name="show_toast">SHOW TOAST</string>
+</resources>
